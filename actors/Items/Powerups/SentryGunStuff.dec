@@ -1,4 +1,4 @@
-actor SentryGun: SwitchableDecoration
+actor SentryGun
 {
 	obituary "%o was ventilated by an auto-sentry."
 	health 300
